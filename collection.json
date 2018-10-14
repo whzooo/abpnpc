@@ -1,0 +1,36 @@
+{
+  "schematics": {
+    "module": {
+      "factory": "./module",
+      "schema": "./module/schema.json",
+      "description": "Create a abp ng alain module."
+    },
+    "page": {
+      "factory": "./page",
+      "schema": "./page/schema.json",
+      "description": "Create a abp ng alain page page."
+    },
+    "list": {
+      "factory": "./list",
+      "schema": "./page/schema.json",
+      "description": "Create a abp ng alain list page."
+    },
+    "modal": {
+      "factory": "./modal",
+      "schema": "./modal/schema.json",
+      "description": "Create a abp ng alain modal view page."
+    }
+    ,
+    "create": {
+      "factory": "./create",
+      "schema": "./create/schema.json",
+      "description": "Create a abp ng alain create view page."
+    }
+    ,
+    "edit": {
+      "factory": "./edit",
+      "schema": "./edit/schema.json",
+      "description": "Create a abp ng alain edit view page."
+    }
+  }
+}

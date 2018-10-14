@@ -1,0 +1,30 @@
+{
+  "name": "abpnpc",
+  "version": "1.0.0",
+  "description": "abp-ng-alain-cli-extends",
+  "main": "index.js",
+  "scripts": {
+    "test": "ng g abpnpc:page -m=sys"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whzooo/abpnpc.git"
+  },
+  "keywords": [
+    "abp",
+    "abp-ng"
+  ],
+  "peerDependencies": {
+    "@angular-devkit/core": "^0.8.1",
+    "@angular-devkit/schematics": "^0.8.1",
+    "@schematics/angular": "^0.8.1"
+  },
+  "schematics": "./collection.json",
+  "sideEffects": false,
+  "author": "?",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whzooo/abpnpc/issues"
+  },
+  "homepage": "https://github.com/whzooo/abpnpc#readme"
+}
