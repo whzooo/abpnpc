@@ -4,6 +4,13 @@ abp-ng-alain-cli-extends
   从ng-alain扩展abp新建模块、列表页、新建、编辑等.
   代码也是在ng-alain的基础上修改的.
   文档也是.
+
+## 安装
+
+```
+npm i abpnpc
+```
+
 ## 命令格式
 
 ```bash
